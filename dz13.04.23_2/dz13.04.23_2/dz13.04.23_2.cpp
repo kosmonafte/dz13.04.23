@@ -10,6 +10,7 @@
 using namespace std;
 int main()
 {
+    //comment for test gitHub
     setlocale(LC_ALL, "RUS");
     //SetConsoleCP(65001);
     //SetConsoleOutputCP(65001);
